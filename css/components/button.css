@@ -1,0 +1,11 @@
+.btn-red {
+	background-color: #d63447;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Ubuntu', serif;
+}
+.btn-red:hover {
+	background-color: black;
+}
